@@ -1,0 +1,4 @@
+[submodule "test_io.zarr"]
+	path = test_io.zarr
+	url = https://github.com/dandizarrs/ccefbc9f-30e7-4a4c-b044-5b59d300040b
+	datalad-id = 4450a632-df0e-4495-87a7-404870fdd56b
